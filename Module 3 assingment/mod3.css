@@ -1,0 +1,27 @@
+body{
+    background-color: brown;
+    height: 1000px;
+}
+#Our-Menu{
+    text-align: center;
+    background-color: cornsilk;
+}
+#chickstory{
+    background-color: darkgrey;
+    padding: 10% 12% 10% 12%;
+}
+#chic{
+    text-align: center;
+    margin-top: -35px;
+    margin-bottom: 8%;
+}
+#navbarsbutton{
+    text-align: center;
+}
+.navbar-brand{
+    font-size: 215%;
+}
+.dr{
+    font-size: 120%;
+    text-transform: uppercase;
+}
