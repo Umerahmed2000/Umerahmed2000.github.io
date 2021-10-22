@@ -1,0 +1,16 @@
+.jumbotron{
+    padding:67px 9% 70px 11%;
+    background-color: blueviolet;
+    max-width: 100%;
+}
+#our,#cop{
+    padding: 7% 4% 14% 4% ;
+}
+footer{
+    padding:4% ;
+background-color:rgb(185 194 195);
+width: 100%;
+}
+#foot{
+    padding: 4% 4% 4% 4% ;
+}
