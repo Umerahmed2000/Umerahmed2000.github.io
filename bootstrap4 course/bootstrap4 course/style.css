@@ -1,0 +1,34 @@
+.jumbotron{
+    padding:67px 9% 70px 11%;
+    background-color: blueviolet;
+    max-width: 100%;
+}
+#our,#cop{
+    padding: 7% 0% 14% 4% ;
+}
+footer{
+
+background-color:rgb(185 194 195);
+width: 100%;
+}
+#foot{
+    padding: 4% 0% 4% 4% ;
+}
+.utp{
+    padding: 2% ;
+}
+.j{
+    padding-left:50% ;
+}
+.buffet{
+    float: right;
+    clear: both;
+}
+.f{
+    border: 1px solid black;
+    padding: 5% 2%;
+}
+#a *{
+    color: white;
+    text-decoration: none;
+}
