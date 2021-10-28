@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>te</h1> <h2>33</h2>
+    <?php 
+    echo" hello";
+    ?>
 </body>
 </html>
